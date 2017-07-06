@@ -1,0 +1,10 @@
+#!/bin/bash
+for f in $(find ~ -name "*~" -type f)
+do
+    rm $f
+done
+
+for f in $(find ~ -name "#*#" -type f)
+do
+    rm $f
+done
