@@ -7,6 +7,7 @@ Here's an assortment of helpful scripts to automate monotonous tasks that you mi
 * Clone the repo:
   * `git clone https://github.com/srinitude/helpful.git` (HTTPS)
   * `git clone git@github.com:srinitude/helpful.git` (SSH)
+* Change to the helpful scripts directory: `cd helpful`
 * Install all of the scripts to be able to run them from anywhere:
 `./install.sh`
 
