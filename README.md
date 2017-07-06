@@ -13,5 +13,5 @@ Here's an assortment of helpful scripts to automate monotonous tasks that you mi
 And you're done!
 
 ## Scripts
-byebyetemp - Remove any of your emacs backup files
-clean_desktop - Move every screenshot to a subdirectory within your root directory
+* byebyetemp - Remove any of your emacs backup files
+* clean_desktop - Move every screenshot to a subdirectory within your root directory
