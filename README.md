@@ -15,4 +15,4 @@ And you're done!
 
 ## Scripts
 * byebyetemp - Remove any of your emacs backup files
-* clean_desktop - Move every screenshot to a subdirectory within your root directory
+* clean_desktop - Move every file from your Desktop to a subdirectory within your root directory
